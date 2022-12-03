@@ -1,0 +1,15 @@
+#board {
+
+    display: grid;
+    place-content: center;
+
+
+}
+
+#Title {
+
+    text-align: center;
+
+
+}
+
